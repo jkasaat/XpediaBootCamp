@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Expedia]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="ExpediaTest(failed)">
+    <classes>
+      <class name="com.piit.bootcamp.expedia.Expedia_question.ExpediaTest">
+        <methods>
+          <include name="f"/>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.piit.bootcamp.expedia.Expedia_question.ExpediaTest -->
+    </classes>
+  </test> <!-- ExpediaTest(failed) -->
+</suite> <!-- Failed suite [Expedia] -->

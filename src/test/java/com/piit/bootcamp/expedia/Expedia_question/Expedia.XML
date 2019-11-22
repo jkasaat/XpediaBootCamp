@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Expedia">
+<test name="ExpediaTest">
+<!-- <parameter name="browser" value="chrome"></parameter> -->
+<classes>
+<class name="com.piit.bootcamp.expedia.Expedia_question.ExpediaTest"></class>
+</classes> 
+</test>
+</suite>
